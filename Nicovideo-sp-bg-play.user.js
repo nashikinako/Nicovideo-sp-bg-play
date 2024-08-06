@@ -6,6 +6,7 @@
 // @grant       none
 // @version     1.0.0
 // @author      Nashikinako
+// @license     MIT
 // @description スマホブラウザ版ニコニコ動画でバックグラウンド再生ができるようにします。
 // @supportURL  https://github.com/nashikinako/Nicovideo-sp-bg-play/issues
 // ==/UserScript==
